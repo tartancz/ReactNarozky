@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "homepage": "https://tartancz.github.io/ReactNarozky"
   "dependencies": {
     "react": "^18.2.0",
     "react-beautiful-dnd": "^13.1.1",
